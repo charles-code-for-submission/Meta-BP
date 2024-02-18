@@ -15,7 +15,7 @@ The datasets used in the paper are publicly available at https://github.com/shch
 
 ## Run
 
-Example: to run experiments on Amazon Computers, execute the following command based on the pre-trained GNN by DGI.
+For example: to run experiments on Amazon Computers, execute the following command based on the pre-trained GNN.
 + Python amazon_dgims_mi.py --dgipath pretrained-model --frozen 1 --enchid hidden_units --sparsity capacity-ratio
    
 ## Update
